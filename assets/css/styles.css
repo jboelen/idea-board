@@ -1,0 +1,9 @@
+span.error {padding-left:10px;}
+
+div.spacer {height:4px;width:100%;}
+div#errorContainer {padding-top:2px;}
+
+.reply {text-align:right; z-index:20; position:relative;}
+.margin-m15 {margin-bottom:-15px;}
+
+.vote-error {margin-top:10px;}
